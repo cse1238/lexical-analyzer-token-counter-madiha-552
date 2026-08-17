@@ -1,6 +1,6 @@
 # lexical-analyzer-token-counter-madiha-552
 ##Lexical Analyzer & Token Counter
- 1.**Lexical Analyzer & Token Counter**
+ ##1.**Lexical Analyzer & Token Counter**
  ## 2. Objective
 The objective of this project is to develop a lexical analyzer that reads a source-code file and identifies and counts different types of tokens.
 The program identifies:
